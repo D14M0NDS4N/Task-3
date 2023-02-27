@@ -1,0 +1,34 @@
+.app8g{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: aqua;
+  background-size: cover;
+}
+
+.LoginForm{
+  background-color: #fff;
+  box-shadow: 0px 5px 20px 0 rgba(0, 0, 255, 0.33);
+  padding: 15px 30px 16px 30px;
+  border-radius: 16px;
+}
+
+.ant-typography{
+  margin-bottom: 0.5em;
+  color: rgba(0, 0, 0, 0.88);
+  font-weight: 600;
+  font-size: xx-large;
+  line-height: normal;
+}
+
+.ant-btn.ant-btn-block{
+  width: 100%;
+}
+
+.ant-btn{
+  font-size: 14px;
+  height: 32px;
+  padding: 4px 250px;
+  border-radius: 7px;
+}
